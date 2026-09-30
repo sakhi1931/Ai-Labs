@@ -9,3 +9,5 @@ A Python demonstration repository containing core algorithmic sorting routines a
 1. Clone the repository:
    ```bash
    git clone [https://github.com/your-username/ai-tools-lab.git](https://github.com/your-username/ai-tools-lab.git)
+
+   **Sakhi Lakhesar** ([@sakhi1931](https://github.com/sakhi1931)) – Lead Developer & Maintainergit
